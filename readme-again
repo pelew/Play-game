@@ -1,8 +1,25 @@
 <DOCTYPE html>
 <html>
-<style></style>
+
 <head>
+ <script type= "text/javaScrip">
+ </script>
 <title>Rock Papper Scissors game</title> 
+<style> 
+{
+font-family:georgia,
+}
+{
+font-size:12px;
+}
+back-ground-color : orange;
+{
+text-align : center;
+}
+</style>
+
 </head>
-<body></body>
+<body>
+<h1>Play Against The Computor</h1>
+</body>
 </html>
